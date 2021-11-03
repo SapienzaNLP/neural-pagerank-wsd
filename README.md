@@ -1,7 +1,7 @@
 # Integrating Personalized PageRank into Neural Word Sense Disambiguation
 
 
-This repo hosts the code necessary to reproduce the results of our EMNLP 2021 paper, *Integrating Personalized PageRank into Neural Word Sense Disambiguation*, by Ahmed ElSheikh, Michele Bevilacqua and Roberto Navigli, which you can read on [ACL Anthology]().
+This repo hosts the code necessary to reproduce the results of our EMNLP 2021 paper, [*Integrating Personalized PageRank into Neural Word Sense Disambiguation*, by Ahmed ElSheikh, Michele Bevilacqua and Roberto Navigli](preprint.pdf).
 
 This repository heavily relies on Simone's [code](https://github.com/sapienzaNLP/multilabel-wsd).
 
